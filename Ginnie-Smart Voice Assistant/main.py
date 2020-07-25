@@ -6,7 +6,7 @@ import os
 import speech_recognition as sr        #pip install SpeechRecognition
 import smtplib                         #pip install smtplib
 import random                        #pip install random
-from akhbaar import akhbaar        #built-in module
+from akhbaar import akhbaar        #module made by me named as akhbaar.py
 import psutil                     #pip install psutil
 import pyjokes                     # pip install pyjokes
 import requests, json              #inbuilt
