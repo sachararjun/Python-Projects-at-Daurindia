@@ -1,2 +1,2 @@
 # Python-Projects-at-Daurindia
-Contains my internship projects
+Contains some internship projects
